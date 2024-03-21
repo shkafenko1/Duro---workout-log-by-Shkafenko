@@ -3,6 +3,5 @@
 #include <stdlib.h>
 
 int main(){
-    printf("СЛАВА ГИТЛЕРУ");
     printf("Я СОСУ БИБУ");
 }
