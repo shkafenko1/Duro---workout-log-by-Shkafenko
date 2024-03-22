@@ -1,4 +1,10 @@
-"D:\Proggies 2\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Proggies 2/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Course project\Duro_ code" -B "D:\Course project\Duro_ code\cmake-build-debug"
--- Configuring done (0.1s)
+/home/yahor/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/yahor/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/clang -G Ninja -S "/media/yahor/Storage1/Course project/Duro_ code" -B "/media/yahor/Storage1/Course project/Duro_ code/cmake-build-debug"
+-- The C compiler identification is Clang 14.0.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.3s)
 -- Generating done (0.0s)
--- Build files have been written to: D:/Course project/Duro_ code/cmake-build-debug
+-- Build files have been written to: /media/yahor/Storage1/Course project/Duro_ code/cmake-build-debug

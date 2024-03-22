@@ -1,3 +1,3 @@
-D:/Course project/Duro_ code/cmake-build-debug/CMakeFiles/Duro__code.dir
-D:/Course project/Duro_ code/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Course project/Duro_ code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/yahor/Storage1/Course project/Duro_ code/cmake-build-debug/CMakeFiles/Duro__code.dir
+/media/yahor/Storage1/Course project/Duro_ code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/yahor/Storage1/Course project/Duro_ code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
